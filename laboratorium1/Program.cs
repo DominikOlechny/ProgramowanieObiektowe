@@ -67,7 +67,7 @@ static void consoleWriteLine()
 
 
 }
-
+//zadanie2
 static void Zadanie2()
 {
     Menu();
