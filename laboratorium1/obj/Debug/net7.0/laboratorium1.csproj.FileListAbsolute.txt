@@ -1,4 +1,0 @@
-C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\laboratorium1\obj\Debug\net7.0\laboratorium1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\laboratorium1\obj\Debug\net7.0\laboratorium1.AssemblyInfoInputs.cache
-C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\laboratorium1\obj\Debug\net7.0\laboratorium1.AssemblyInfo.cs
-C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\laboratorium1\obj\Debug\net7.0\laboratorium1.csproj.CoreCompileInputs.cache

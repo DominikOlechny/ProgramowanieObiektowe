@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\LAB1.1\\LAB1.1.csproj",
-      "projectName": "LAB1.1",
-      "projectPath": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\LAB1.1\\LAB1.1.csproj",
+      "projectUniqueName": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\lab1.1\\lab1.1.csproj",
+      "projectName": "lab1.1",
+      "projectPath": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\lab1.1\\lab1.1.csproj",
       "packagesPath": "C:\\Users\\Domin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\LAB1.1\\obj\\",
+      "outputPath": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\lab1.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
