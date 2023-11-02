@@ -92,7 +92,7 @@ static void Total()
     double x, y, wynik;
     Console.WriteLine("Podaj a");
     x = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("Podaj a");
+    Console.WriteLine("Podaj b");
     y = Convert.ToDouble(Console.ReadLine());
     wynik = x + y;
     Console.WriteLine(wynik);
@@ -104,7 +104,7 @@ static void Difference()
     double x, y, wynik;
     Console.WriteLine("Podaj a");
     x = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("Podaj a");
+    Console.WriteLine("Podaj b");
     y = Convert.ToDouble(Console.ReadLine());
     wynik = x - y;
     Console.WriteLine(wynik);
@@ -116,7 +116,7 @@ static void ProductNumber()
     double x, y, wynik;
     Console.WriteLine("Podaj a");
     x = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("Podaj a");
+    Console.WriteLine("Podaj b");
     y = Convert.ToDouble(Console.ReadLine());
     wynik = x * y;
     Console.WriteLine(wynik);
@@ -128,7 +128,7 @@ static void QuotienNumber()
     double x, y, wynik;
     Console.WriteLine("Podaj a");
     x = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("Podaj a");
+    Console.WriteLine("Podaj b");
     y = Convert.ToDouble(Console.ReadLine());
     while(y == 0)
     {
@@ -145,9 +145,28 @@ static void PotentiationNumber()
     double x, y, wynik;
     Console.WriteLine("Podaj a");
     x = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("Podaj a");
+    Console.WriteLine("Podaj b");
     y = Convert.ToDouble(Console.ReadLine());
-    wynik = x ** y;
+    wynik = Math.Pow(x, y);
     Console.WriteLine(wynik);
 
+}
+
+static void SquareNumber();
+{
+    double x, y, wynik;
+    Console.WriteLine("Podaj a");
+    x = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Podaj b");
+    y = Convert.ToDouble(Console.ReadLine());
+    while (x <= || y <= 0)
+    {
+        Console.WriteLine("Ktoras z liczb wynosi 0 Podaj je ponownie\n");
+        Console.WriteLine("Podaj a");
+        x = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("Podaj b");
+        y = Convert.ToDouble(Console.ReadLine());
+    }
+    wynik = Math.Sqrt(x, y);
+    Console.WriteLine(wynik);
 }
