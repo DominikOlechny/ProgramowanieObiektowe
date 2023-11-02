@@ -1,0 +1,14 @@
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\bin\Debug\net7.0\LAB1.1.exe
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\bin\Debug\net7.0\LAB1.1.deps.json
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\bin\Debug\net7.0\LAB1.1.runtimeconfig.json
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\bin\Debug\net7.0\LAB1.1.dll
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\bin\Debug\net7.0\LAB1.1.pdb
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\obj\Debug\net7.0\LAB1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\obj\Debug\net7.0\LAB1.1.AssemblyInfoInputs.cache
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\obj\Debug\net7.0\LAB1.1.AssemblyInfo.cs
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\obj\Debug\net7.0\LAB1.1.csproj.CoreCompileInputs.cache
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\obj\Debug\net7.0\LAB1.1.dll
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\obj\Debug\net7.0\refint\LAB1.1.dll
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\obj\Debug\net7.0\LAB1.1.pdb
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\obj\Debug\net7.0\LAB1.1.genruntimeconfig.cache
+C:\Users\Domin\Source\Repos\DominikOlechny\ProgramowanieObiektowe\LAB1.1\obj\Debug\net7.0\ref\LAB1.1.dll
