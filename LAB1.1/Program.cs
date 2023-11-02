@@ -72,22 +72,22 @@ ViewMenu:
 
     switch (choise)
     {
-        case 1: Total(wynik); break;
-        //case 2: Difference(); break;
-        //case 3: ProductNumber(); break;
-        //case 4: QuotienNumber(); break;
-        //case 5: PotentiationNumber(); break;
-       // case 6: SquareNumber(); break;
-       // case 7: Trigonometry(); break;
-     //   case 8: Close(); break;
-       // default:
+        case 1: Total(); break;
+        case 2: Difference(); break;
+        case 3: ProductNumber(); break;
+        case 4: QuotienNumber(); break;
+        case 5: PotentiationNumber(); break;
+       case 6: SquareNumber(); break;
+       case 7: Trigonometry(); break;
+        case 8: Close(); break;
+        default:
             Console.WriteLine("Bledy wybor, sprobuj ponowanie: ");
             goto ViewMenu;
             break;
     }
 }
 
-static double Total(double wynik)
+static void Total()
 {
     double x, y, wynik;
     Console.WriteLine("Podaj a");
@@ -99,4 +99,55 @@ static double Total(double wynik)
     
 }
 
+static void Difference()
+{
+    double x, y, wynik;
+    Console.WriteLine("Podaj a");
+    x = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Podaj a");
+    y = Convert.ToDouble(Console.ReadLine());
+    wynik = x - y;
+    Console.WriteLine(wynik);
 
+}
+
+static void ProductNumber()
+{
+    double x, y, wynik;
+    Console.WriteLine("Podaj a");
+    x = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Podaj a");
+    y = Convert.ToDouble(Console.ReadLine());
+    wynik = x * y;
+    Console.WriteLine(wynik);
+
+}
+
+static void QuotienNumber()
+{
+    double x, y, wynik;
+    Console.WriteLine("Podaj a");
+    x = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Podaj a");
+    y = Convert.ToDouble(Console.ReadLine());
+    while(y == 0)
+    {
+        Console.WriteLine("ERROR podaj cos innego niz 0");
+        y = Convert.ToDouble(Console.ReadLine());
+    }
+    wynik = x / y;
+    Console.WriteLine(wynik);
+
+}
+
+static void PotentiationNumber()
+{
+    double x, y, wynik;
+    Console.WriteLine("Podaj a");
+    x = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Podaj a");
+    y = Convert.ToDouble(Console.ReadLine());
+    wynik = x ** y;
+    Console.WriteLine(wynik);
+
+}
