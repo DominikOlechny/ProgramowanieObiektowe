@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\LAB1\\LAB1.csproj": {}
+    "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\laboratorium1\\laboratorium1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\LAB1\\LAB1.csproj": {
+    "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\laboratorium1\\laboratorium1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\LAB1\\LAB1.csproj",
-        "projectName": "LAB1",
-        "projectPath": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\LAB1\\LAB1.csproj",
+        "projectUniqueName": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\laboratorium1\\laboratorium1.csproj",
+        "projectName": "laboratorium1",
+        "projectPath": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\laboratorium1\\laboratorium1.csproj",
         "packagesPath": "C:\\Users\\Domin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\LAB1\\obj\\",
+        "outputPath": "C:\\Users\\Domin\\Source\\Repos\\DominikOlechny\\ProgramowanieObiektowe\\laboratorium1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
