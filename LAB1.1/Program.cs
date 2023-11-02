@@ -2,7 +2,8 @@
 using System;
 using System.Runtime.InteropServices;
 
-zadanie1();
+//zadanie1();
+Zadanie2();
 //ZADANIE1
 static void zadanie1()
 {
@@ -47,8 +48,55 @@ static double miejsce(double a, double b, double c)
     return 0;
 }
 
+//zadanie 2
 
+static void Zadanie2()
+{
+    Menu();
+}
 
+static void Menu()
+{
+ViewMenu:
+    Console.WriteLine("========== Kalkulator =================");
+    Console.WriteLine("========== 1. Suma =================");
+    Console.WriteLine("========== 2. Roznica =================");
+    Console.WriteLine("========== 3. Iloczyn =================");
+    Console.WriteLine("========== 4. Iloraz =================");
+    Console.WriteLine("========== 5. Potegowanie =================");
+    Console.WriteLine("========== 6. Pierwisatek z liczby =================");
+    Console.WriteLine("========== 7. Funkcje trygonometryczne zadanego kata =================");
+    Console.WriteLine("========== 8. Wyjscie =================");
+    Console.WriteLine("Twoj wybor: ");
+    int choise = Convert.ToInt32(Console.ReadLine());
 
+    switch (choise)
+    {
+        case 1: Total(wynik); break;
+        //case 2: Difference(); break;
+        //case 3: ProductNumber(); break;
+        //case 4: QuotienNumber(); break;
+        //case 5: PotentiationNumber(); break;
+       // case 6: SquareNumber(); break;
+       // case 7: Trigonometry(); break;
+     //   case 8: Close(); break;
+       // default:
+            Console.WriteLine("Bledy wybor, sprobuj ponowanie: ");
+            goto ViewMenu;
+            break;
+    }
+}
+
+static double Total(double wynik)
+{
+    double x, y, wynik;
+    Console.WriteLine("Podaj a");
+    x = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Podaj a");
+    y = Convert.ToDouble(Console.ReadLine());
+    wynik = x + y;
+    Console.WriteLine(wynik);
+    
+}
 
 
