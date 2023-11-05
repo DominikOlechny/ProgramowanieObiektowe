@@ -1,0 +1,15 @@
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\bin\Debug\net7.0\Laboratorium3.exe
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\bin\Debug\net7.0\Laboratorium3.deps.json
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\bin\Debug\net7.0\Laboratorium3.runtimeconfig.json
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\bin\Debug\net7.0\Laboratorium3.dll
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\bin\Debug\net7.0\Laboratorium3.pdb
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\Laboratorium3.csproj.AssemblyReference.cache
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\Laboratorium3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\Laboratorium3.AssemblyInfoInputs.cache
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\Laboratorium3.AssemblyInfo.cs
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\Laboratorium3.csproj.CoreCompileInputs.cache
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\Laboratorium3.dll
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\refint\Laboratorium3.dll
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\Laboratorium3.pdb
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\Laboratorium3.genruntimeconfig.cache
+C:\Users\w67167\Desktop\Laboratorium3\Laboratorium3\obj\Debug\net7.0\ref\Laboratorium3.dll
